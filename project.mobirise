@@ -52,7 +52,7 @@
     ],
     "imageResize": true,
     "favicon": false,
-    "mbrsiteDomain": "jrfsswwbwz",
+    "mbrsiteDomain": "qqslz5w4ed",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -67,10 +67,13 @@
       "themeColor": "#de6d10"
     },
     "uniqCompNum": 54,
-    "versionPublish": "5.9.18",
+    "versionPublish": "6.0.1",
     "screenshot": "screenshot.png",
     "publishChangesOnly": true,
-    "usedWebp": false
+    "usedWebp": false,
+    "chatbutton": {},
+    "lazyLoad": true,
+    "cssOptimize": true
   },
   "pages": {
     "index.html": {
