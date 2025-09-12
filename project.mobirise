@@ -69,7 +69,7 @@
     "uniqCompNum": 64,
     "versionPublish": "6.0.1",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "usedWebp": false,
     "chatbutton": {},
     "lazyLoad": true,
