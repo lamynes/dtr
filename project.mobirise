@@ -518,7 +518,7 @@
               "color": "#ffffff"
             },
             ".mbr-section-subtitle": {
-              "color": "#de6d10"
+              "color": "#fff0b0"
             },
             "p, h1, h2, a, h3, h4, h5": {
               "text-shadow": "6px 6px 10px #000000"
